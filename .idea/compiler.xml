@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service_user" />
+        <module name="service_hosp_client" />
+        <module name="rabbit_util" />
+        <module name="service_order" />
+        <module name="service_msm" />
+        <module name="service_cmn" />
+        <module name="common_util" />
+        <module name="service_gateway" />
+        <module name="service_oss" />
+        <module name="service_order_client" />
+        <module name="service_user_client" />
+        <module name="service_statistics" />
+        <module name="service_task" />
+        <module name="model" />
+        <module name="service_util" />
+        <module name="service_cmn_client" />
+        <module name="service_hosp" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="appointment-register" target="1.5" />
+      <module name="common" target="8" />
+      <module name="common_util" target="8" />
+      <module name="model" target="8" />
+      <module name="rabbit_util" target="8" />
+      <module name="service" target="8" />
+      <module name="service_client" target="8" />
+      <module name="service_cmn" target="8" />
+      <module name="service_cmn_client" target="8" />
+      <module name="service_gateway" target="8" />
+      <module name="service_hosp" target="8" />
+      <module name="service_hosp_client" target="8" />
+      <module name="service_msm" target="8" />
+      <module name="service_order" target="8" />
+      <module name="service_order_client" target="8" />
+      <module name="service_oss" target="8" />
+      <module name="service_statistics" target="8" />
+      <module name="service_task" target="8" />
+      <module name="service_user" target="8" />
+      <module name="service_user_client" target="8" />
+      <module name="service_util" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
